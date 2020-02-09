@@ -40,5 +40,4 @@ switch(age) {
     break;
   default:
     console.log("You have an age");
-}
-}
+}}
